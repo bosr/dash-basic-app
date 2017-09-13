@@ -6,6 +6,7 @@ Setup a virtualenv and install
     pip install --upgrade pip setuptools
     pip install ipython dash dash_renderer \
         dash_html_components dash_core_components
+    pip install pandas-datareader  # also brings pandas
 
 The source code is in `helloworld.py`.
 
